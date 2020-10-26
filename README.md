@@ -2,7 +2,7 @@
 - Spring framework를 이용한 기업 웹 페이지 만들기 (우진전자)
 ###### Organizations에 협업 했습니다. 
 
-**시연 영상 : https://youtu.be/_Arpqs6xka0 **
+** 시연 영상 : https://youtu.be/_Arpqs6xka0 **
 
 
 * 프로그램명 : wj Electronics
